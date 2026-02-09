@@ -33,6 +33,8 @@ dog("Bob","German Shepherd",4)
 dog("Mary","Chihuahua",2)    
 dog("Pinero","Siberian Husky",5)
 
+print()
+
 
 #Display the data of five employees
 #full name,position,gender,age
