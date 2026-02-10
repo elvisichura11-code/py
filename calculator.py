@@ -1,4 +1,4 @@
-#Create a simple calculator with the 4 basic operators43
+#Create a simple calculator with the 4 basic operators
 
 #If an undefined operator is used display invalid operator
 
@@ -28,4 +28,4 @@ elif operator == "/":
         print("Error: Division by zero is not allowed")
 
 else:
-    print("Invalid operator")
+    print("Invalid operator chosen.Enter a valid operator")
